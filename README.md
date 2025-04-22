@@ -1,7 +1,7 @@
 # Versiones1
 Cada estudiante creará versiones de este código base
 Explicación básica del código:
-``
+''
 <!DOCTYPE html>: Declara el tipo de documento como HTML5.
 <html lang="es">: El elemento raíz del documento HTML. lang="es" especifica que el idioma principal es español.
 <head>: Contiene metainformación sobre el documento HTML, como el título, la codificación de caracteres y la configuración de la ventana gráfica.
@@ -21,4 +21,4 @@ Explicación básica del código:
 <img src="https://via.placeholder.com/150" alt="Imagen de ejemplo">: Inserta una imagen. src especifica la ruta de la imagen y alt proporciona un texto alternativo si la imagen no se puede cargar.
 <footer>: Contiene información del pie de página, como derechos de autor.
 <p>&copy; 2023 Mi Página Web</p>: Un párrafo con el símbolo de copyright y el año.
-``
+''
