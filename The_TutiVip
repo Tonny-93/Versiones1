@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Level 100</title>
+</head>
+<body>
+
+    <header>
+        <h1>Bienvenido al TutiVip :V</h1>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#">mi primer emprendimiento </a></li>
+            <li><a href="#">mi segunda pagina web con el teacher Tonny </a></li>
+            <li><a href="#">Xavier Martillo,Diego Santana</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <section>
+            <h2>Futura pagina del tutiVip</h2>
+            <p>https://sl.bing.net/kLDy7IJKFG0</p>
+        </section>
+
+        <section>
+            <h2>La atencion al cliente es siempre primero</h2>
+            <p>aqui tratamos bien a los clientes con resperto que se merece </p>
+            <img src="https://sl.bing.net/foUto7KGgai" alt="Imagen de ejemplo">
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 TutiVip</p>
+    </footer>
+
+</body>
+</html>
