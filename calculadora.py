@@ -9,4 +9,4 @@ def promedio(num1 , num2):
 print(promedio(n1,n2))
 #print(suma(n1,n2))
 #print(multiplicacion(n1,n2))
-#print(division(n1,n2))
+#print(dividir(n1,n2))
